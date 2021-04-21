@@ -1,3 +1,10 @@
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
 .grid-image {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
