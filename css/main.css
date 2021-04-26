@@ -15,6 +15,6 @@ img {
 .gallery {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 5vw);
+    grid-template-rows: repeat(8, 5vw);
     grid-gap: 15px;
 }
