@@ -49,7 +49,7 @@ figure {
 @media (min-width: 30em) {
   
   figure {
-    max-width: 50%; /* Placeholder layout */
+    max-width: 100%; /* Placeholder layout */
   }
   
   .necklace {
