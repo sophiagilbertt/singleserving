@@ -37,13 +37,12 @@ body {
     flex: 100%;
     max-width: 100%;
   }
-}
 
 figure {
   margin: 0;
 }
 
-.work figcaption {
+.necklace figcaption {
   margin-top: 0.5rem;
 }
 
