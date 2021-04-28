@@ -25,7 +25,7 @@ body {
  
 /* responsive media */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .column {
     flex: 50%;
     max-width: 50%;
