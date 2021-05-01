@@ -14,10 +14,6 @@ body {
   gap: 0rem;
 }
 
-figure {
-  padding; 0 0px;
-  margin: 0;
-}
 /* four columns */
 
 .column {
@@ -46,19 +42,18 @@ figure {
   }
 }
 
-/*
 figure {
   margin: 0;
 }
 
-.necklace figcaption {
+.hover figcaption {
   margin-top: 0.5rem;
 }  
-  .necklace {
+  .hover {
     position: relative;
   }
   
-  .necklace figcaption {
+  .hover figcaption {
     box-sizing: border-box;
     position: absolute;
     top: 0;
@@ -75,7 +70,7 @@ figure {
   }
   
    
-  .necklace:hover figcaption {
+  .hover:hover figcaption {
     z-index: 0;
   }
 */
