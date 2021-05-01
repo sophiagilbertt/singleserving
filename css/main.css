@@ -11,18 +11,19 @@ body {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0rem;
 }
 
 figure {
   padding; 0 0px;
+  margin: 0;
 }
 /* four columns */
 
 .column {
-  flex: 23%;
+  flex: 24%;
   !max-width: 25%;
-  !padding: 0 4px;
+  
 }
 
 .column img {
@@ -33,7 +34,7 @@ figure {
  
 /* responsive media */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .column {
     flex: 48%;
   }
