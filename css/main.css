@@ -91,8 +91,8 @@ figure {
     color: #000;
     background-color: #fff;
     background-color: rgba(255, 255, 255, 0.9);
-    z-index: -1;
-    padding: 0rem;
+    z-index: 0;
+    padding: 3rem;
     margin-top: 0;
   }
   
