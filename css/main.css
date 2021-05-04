@@ -8,6 +8,33 @@ body {
   color: white;
 }
 
+/* unvisited link */
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
