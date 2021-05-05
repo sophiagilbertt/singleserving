@@ -3,6 +3,11 @@ html {
   scroll-behavior: smooth;
 }
 
+h1 {
+  text-align: center
+  color: white
+  
+
 body {
   background-color: black;
   color: white;
