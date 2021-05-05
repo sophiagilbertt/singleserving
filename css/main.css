@@ -79,7 +79,9 @@ a:active {
 figure {
   margin: 0;
 }
-
+figcaption {
+  margin-top: 3px;
+}
   .hover {
     position: relative;
   }
