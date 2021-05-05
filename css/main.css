@@ -3,17 +3,17 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-color: black;
+  color: white;
+}
+
 h1 {
   color: white;
   letter-spacing: 10px;
   text-align: center;
   font-size: 400%;
   font-family: "Georigia", Times, serif;
-}
-
-body {
-  background-color: black;
-  color: white;
 }
 
 /* unvisited link */
