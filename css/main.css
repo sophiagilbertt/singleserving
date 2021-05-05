@@ -4,8 +4,14 @@ html {
 }
 
 h1 {
-  text-align: center
   color: white
+  letter-spacing: 10px;
+  text-align: center;
+  font-size: 400%;
+  font-family: "Georigia", Times, serif;
+}
+
+}
   
 
 body {
@@ -78,9 +84,6 @@ figure {
   margin: 0;
 }
 
-.hover figcaption {
-  margin-top: 0.5rem;
-}  
   .hover {
     position: relative;
   }
@@ -97,7 +100,7 @@ figure {
     background-color: #fff;
     background-color: rgba(255, 255, 255, 0.9);
     z-index: -1;
-    padding: 3rem;
+    padding: 0rem;
     margin-top: 0;
   }
   
