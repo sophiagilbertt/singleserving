@@ -118,3 +118,9 @@ figcaption {
   !max-width: 49%;
   
 }
+
+.aboutpage img {
+  margin-top: 0px;
+  vertical-align: middle;
+  width: 100%;
+}
