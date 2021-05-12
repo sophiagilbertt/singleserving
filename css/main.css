@@ -112,3 +112,10 @@ figcaption {
   margin: 0 auto;
   padding: 0 5%;
 }
+
+.me img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
