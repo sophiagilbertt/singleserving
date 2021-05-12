@@ -106,3 +106,9 @@ figcaption {
   .hover:hover figcaption {
     z-index: 0;
   }
+
+.aboutpage {
+ max-width: 60em;
+  margin: 0 auto;
+  padding: 0 5%;
+}
