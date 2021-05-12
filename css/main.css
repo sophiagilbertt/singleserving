@@ -107,3 +107,8 @@ figcaption {
     z-index: 0;
   }
 
+.aboutpage {
+  flex: 49%;
+  !max-width: 49%;
+  
+}
